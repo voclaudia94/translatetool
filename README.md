@@ -4,7 +4,6 @@
 - [Description](#description)
 - [How to Use](#how-to-use)
 - [Authors](#authors)
-- [License and Copyright](#license-and-copyright)
 
 ---
 
@@ -22,9 +21,9 @@ In order for this translation tool to run, it requires Python 3.0 and command li
 
 Translation_tool only requires the DNA strand as the input. Users can input the sequence in uppercase or lowercase format. 
 <br />
-To run the translation_tool.py script from command line, type:\
-1. python\
-2. path to translation_tool.py\
+To run the translation_tool.py script from command line, type:
+1. python
+2. path to translation_tool.py
 3. <code>-i < DNA sequence > </code> to specify the DNA sequence
 
 Example on input on command line:
@@ -39,6 +38,3 @@ python /Desktop/translation_tool.py -i CCCATGAAACCCtaa
 # Authors
 Claudia Vo (2021), vo.claudia94@gmail.com
 
----
-
-# License and Copyright
