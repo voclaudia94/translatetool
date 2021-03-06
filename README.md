@@ -17,7 +17,8 @@ Translate tool takes a user input of a dna sequence and converts the sequence in
 # How to Use
 
 #### Prerequisites
-This tool requires Python 3.8.
+In order for this translation tool to run, it requires Python 3.8 and command line.
+
 
 #### Instructions
 
