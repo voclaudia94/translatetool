@@ -59,7 +59,7 @@ try:
 except ORFerror:
     print("The sequence is not in the open reading frame.")
 except KeyError:
-    print("One of the codons does not translate into a protein. Please check if a nucleotide is missing") 
+    print("One of the codons does not translate into a protein. Please check if a nucleotide is missing or incorrect.") 
 except TypeError:
     print("Input must be alphabetic characters, specifically DNA nucleotides.")
 
