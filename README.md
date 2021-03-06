@@ -1,10 +1,10 @@
 # Translation Tool
 
 ### Table of Contents
-- [Description]
-- [How to Use]
-- [Authors]
-- [License and Copyright]
+- [Description](#description)
+- [How to Use](#how-to-use)
+- [Authors](#authors)
+- [License and Copyright](#license-and-copyright)
 
 ---
 
