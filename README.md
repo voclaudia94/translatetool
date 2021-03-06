@@ -9,8 +9,7 @@
 ---
 
 # Description 
-Translate tool takes a user input of a dna sequence and converts the sequence into a protein. 
-
+Translate tool takes a user input of a dna sequence and converts the sequence into a protein as the output. 
 
 ---
 
@@ -19,8 +18,14 @@ Translate tool takes a user input of a dna sequence and converts the sequence in
 #### Prerequisites
 In order for this translation tool to run, it requires Python 3.8 and command line.
 
-
 #### Instructions
+
+Example on input on command line:
+
+```
+python /Users/claudia/Desktop/translation_tool.py -i CCCATGAAACCCtaa
+```
+
 
 ---
 
