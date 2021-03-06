@@ -26,7 +26,7 @@ To indicate the sequence on command line, use the argument, -i ,followed by the 
 Example on input on command line:
 
 ```
-python /Users/claudia/Desktop/translation_tool.py -i CCCATGAAACCCtaa
+python /Desktop/translation_tool.py -i CCCATGAAACCCtaa
 ```
 
 
