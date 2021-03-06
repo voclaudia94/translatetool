@@ -24,7 +24,7 @@ Translation_tool only requires the DNA strand as the input. Users can input the 
 To run the translation_tool.py script from command line, type:
 1. python
 2. path to translation_tool.py
-3. <code>-i < DNA sequence > </code> to specify the DNA sequence
+3. `-i <DNA sequence>` required to specify the DNA sequence
 
 Example on input on command line:
 
